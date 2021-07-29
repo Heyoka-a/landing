@@ -1,0 +1,31 @@
+.footer{
+  border-top: 1px solid black;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  background-color: RGB(44, 43, 43);
+  padding-bottom: 50px;
+}
+
+.footer li{
+  list-style: none;
+  display: inline;
+}
+
+.footer i{
+  font-size: 40px;
+  margin-left: 20px;
+  color: RGB(30, 221, 136);
+}
+
+.footer ul{
+  padding-left: 0;
+}
+
+.footer p{
+  font-family: 'MonteCarlo', cursive;
+  font-size: x-large;
+  font-weight: bold;
+  color: white;
+}
